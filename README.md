@@ -55,11 +55,11 @@ Download the Mac build of the game
 
 Unzip the folder
 
-In terminal navigate to the directory where the unzipped file "Echoes of Persuasion.app" is located
+In terminal navigate to the directory where the unzipped file "Echoes of Persuasion Mac.app" is located
 
 Run the following two commands 
-- chmod -R +x "Echoes of Persuasion Mac.app/Contents/MacOS/"
-- xattr -rd com.apple.quarantine "Echoes of Persuasion Mac.app"
+`chmod -R +x "Echoes of Persuasion Mac.app/Contents/MacOS/"`
+`xattr -rd com.apple.quarantine "Echoes of Persuasion Mac.app"`
 
 Open the .app file
 
