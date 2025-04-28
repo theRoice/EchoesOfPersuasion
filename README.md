@@ -60,6 +60,7 @@ In terminal navigate to the directory where the unzipped file "Echoes of Persuas
 Run the following two commands 
 - chmod -R +x "Echoes of Persuasion Mac.app/Contents/MacOS/"
 - xattr -rd com.apple.quarantine "Echoes of Persuasion Mac.app"
+
 Open the .app file
 
 (You may need to right-click → Open the first time due to macOS security settings)
