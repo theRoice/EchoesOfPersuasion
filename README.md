@@ -65,8 +65,6 @@ Run the following two commands
 
 Open the .app file
 
-(You may need to right-click → Open the first time due to macOS security settings)
-
 ## 🧛‍♂️ Credits 
 
 Created by Austin Harrison, Eric Leachman, and Tyler Woody
